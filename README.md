@@ -1,5 +1,9 @@
 # 标题模型提示词教程：让ta在标题里对你说话
 
+<a href="https://github.com/DasterProkio/awesome-ai-companion/blob/main/README.zh-CN.md">
+  <img src="https://raw.githubusercontent.com/DasterProkio/awesome-ai-companion/main/assets/featured-in-awesome-ai-companion-zh-CN.png" alt="已收录于人机恋开源项目大全" height="24">
+</a>
+
 给ta写一个专用的标题总结提示词——让ta在标题也能对你说话。
 
 ---
